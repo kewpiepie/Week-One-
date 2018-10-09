@@ -82,6 +82,37 @@ public class Application {
 		
 		
 		System.out.println(dog); 
+		
+		System.out.println(small);
+		
+		System.out.println(big);
+		
+		System.out.println(s);
+		
+		System.out.println(s2);
+		
+		System.out.println(l1);
+		
+		System.out.println(l2);
+		
+		System.out.println(interestrate);
+		
+		System.out.println(interest2);
+		
+		System.out.println(key);
+		
+		System.out.println(key2);
+		
+		System.out.println(puppy);
+		
+		System.out.println(ch1);
+		
+		System.out.println(ch2);
+		
+		System.out.println(age);
+		
+		System.out.println(weight);
+		
 	}
 
 }
